@@ -9,7 +9,8 @@
 // http://stackoverflow.com/questions/17500312/is-there-some-way-i-can-join-the-contents-of-two-javascript-arrays-much-like-i/17500836#17500836
 
 $( document ).ready(function() {
-  getMapData()
+  document.body.style.zoom = '70%';
+  getMapData();
 });
 
 function getMapData() {
