@@ -2,6 +2,8 @@
 
 var tau = 2 * Math.PI;
 
+document.body.style.zoom = '50%';
+
 /*
 parent = div to append to
 y = y coord in div
